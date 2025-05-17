@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SolidBlogsApi</name>
+    </assembly>
+    <members>
+        <member name="M:SolidBlogsApi.Controllers.BlogsController.GetAllBlogs(System.String)">
+            <summary>
+            Get all blog posts with optional search
+            </summary>
+            <param name="term">Optional search term for filtering</param>
+            <returns>List of blog posts</returns>
+        </member>
+        <member name="M:SolidBlogsApi.Controllers.BlogsController.GetBlogById(System.Int32)">
+            <summary>
+            Get a specific blog post by ID
+            </summary>
+            <param name="id">Blog post ID</param>
+            <returns>Blog post details</returns>
+        </member>
+        <member name="M:SolidBlogsApi.Controllers.BlogsController.CreateBlog(SolidBlogsApi.Models.Blog)">
+            <summary>
+            Create a new blog post
+            </summary>
+            <param name="blog">Blog post data</param>
+            <returns>Created blog post</returns>
+        </member>
+        <member name="M:SolidBlogsApi.Controllers.BlogsController.UpdateBlog(System.Int32,SolidBlogsApi.Models.Blog)">
+            <summary>
+            Update an existing blog post
+            </summary>
+            <param name="id">Blog post ID</param>
+            <param name="blog">Updated blog post data</param>
+            <returns>Updated blog post</returns>
+        </member>
+        <member name="M:SolidBlogsApi.Controllers.BlogsController.DeleteBlog(System.Int32)">
+            <summary>
+            Delete a blog post
+            </summary>
+            <param name="id">Blog post ID</param>
+            <returns>No content if successful</returns>
+        </member>
+    </members>
+</doc>

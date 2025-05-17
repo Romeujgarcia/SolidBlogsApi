@@ -58,3 +58,4 @@ C:\Users\Romeu Garcia\Downloads\Estudo\Net  6\SolidBlogsApi\bin\Debug\net6.0\Swa
 C:\Users\Romeu Garcia\Downloads\Estudo\Net  6\SolidBlogsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Romeu Garcia\Downloads\Estudo\Net  6\SolidBlogsApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Romeu Garcia\Downloads\Estudo\Net  6\SolidBlogsApi\obj\Debug\net6.0\SolidBlogsApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Romeu Garcia\Downloads\Estudo\Net  6\SolidBlogsApi\bin\Debug\net6.0\SolidBlogsApi.xml
