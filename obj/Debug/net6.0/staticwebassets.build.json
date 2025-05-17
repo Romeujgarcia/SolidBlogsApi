@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cbVYqebUMraSR/dDUZJJGDDwZRlQBPkC+9IygKgDpgw=",
+  "Source": "SolidBlogsApi",
+  "BasePath": "_content/SolidBlogsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
